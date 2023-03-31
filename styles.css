@@ -22,3 +22,10 @@ header{
 footer{
     background-color: #231F20;
 }
+.lead {
+    font-size: xx-large;
+}
+img {
+    border: solid ;
+    border-radius: 10px;
+}
